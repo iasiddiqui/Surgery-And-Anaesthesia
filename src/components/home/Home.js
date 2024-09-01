@@ -171,7 +171,8 @@ const Home = () => {
           alt="Conference Group"
         />
         <h2>
-          9th Edition of International Conference on Dentistry and Oral Health
+        5th Edition of Global Conference on Surgery and Anaesthesia
+
         </h2>
         <div className="main-buttons">
           <button>Submit Abstract</button>
@@ -183,70 +184,26 @@ const Home = () => {
 
       {/* About Section */}
       <section className="about-section">
-        <h2>About ICDO 2024 | Hybrid Event</h2>
-        <p>
-          Since 2017, Magnus Group has been spearheading impactful{" "}
-          <strong>Dental Conferences</strong> that have significantly influenced
-          the field of dentistry. Due to the enthusiastic response from
-          attendees worldwide, we're excited to unveil the much-anticipated{" "}
-          <strong>
-            "9th Edition of International Conference on Dentistry and Oral
-            Health"
-          </strong>{" "}
-          slated as a Hybrid Event taking place from{" "}
-          <strong>September 02-04, 2024, in Madrid, Spain.</strong>
+        <h2>About GCSA 2024 | Hybrid Event</h2>
+        <p>Magnus Group joyfully invites you to the <strong> "5th Edition of Global Conference on Surgery and Anaesthesia (GCSA 2024)."</strong> Scheduled as a <strong>Hybrid Event</strong> from <strong>September 05-07, 2024</strong>, participants can engage in-person at <strong>Madrid, Spain, or virtually</strong> from anywhere. Join us for a dynamic blend of physical and virtual experiences, uniting global experts in surgery and anaesthesia for enriching discussions and insights. Save the date and be part of this innovative congress shaping the future of healthcare.
         </p>
         <p>
-          The <strong>HYBRID EVENT</strong> format offers you the option to join
-          either in person at the venue in <strong>Madrid, Spain,</strong> or
-          virtually from the convenience of your home or workplace.
+          The focal point of the global congress will revolve around the theme <strong>“Surgical Innovations Addressing Healthcare Challenges: A Focus on Technology”</strong>
         </p>
         <p>
-          The worldwide summit will revolve around the theme{" "}
-          <strong>
-            "ORAL: Observing Recent Advances and Leveraging Innovation in
-            Dentistry."
-          </strong>
+          The field of surgery is in a constant state of evolution, with ongoing research and technological advancements enhancing the safety, effectiveness, and recovery times of surgical operations. The collaboration between humans and technology has reached unprecedented levels, thanks to the application of artificial intelligence, surgical robots, 3D printing, and innovative imaging approaches across various treatments. The future of surgery holds even more potential beyond these current innovations.
         </p>
         <p>
-          Oral hygiene reflects one's overall health. Often, the mouth serves as
-          an early indicator of various disorders, making it a key area where
-          symptoms initially manifest. As the gateway offering insights into
-          overall well-being, it's vital to uphold exceptional dental hygiene.
+         Our annual global summit on surgery and anaesthesia serves as an exceptional platform for the convergence of surgeons, healthcare professionals, anaesthesiologists, researchers, scientists, academicians, nurses, trainees, policymakers, industry personnel, and consultants. This three-day congress provides a significant space for scientific exchange between clinicians and fundamental scientists operating in the intricate realm of anaesthesia and surgery.
         </p>
         <p>
-          The core principles of the conference encompass innovation,
-          sustainability, networking, learning, and engagement. This event
-          serves as a platform for inspiration and collaboration in an
-          exceptionally inspiring setting. <strong>ICDO 2024</strong> aims to
-          stimulate professionals with new concepts in innovation and
-          sustainability while also cultivating connections among individuals
-          from across the globe.
+          Encompassing cutting-edge topics in these fields, the conference delves into new treatment options, offering participants the chance to be part of one of the most pivotal worldwide events in the realm of surgery and anaesthesia. Attendees will not only have the opportunity to network with fellow professionals, scientists, professors, and students but also to explore new possibilities and enhance their expertise. The event serves as an excellent forum for research participants to interact, sharing experiences and findings across all facets of anaesthesia and surgery.
         </p>
         <p>
-          The primary aim of the global summit is to encourage the exploration
-          of new research paths and inventive therapeutic approaches, while also
-          nurturing highly productive collaborations among prominent
-          laboratories within the dentistry and oral care domain. Attended by
-          individuals from various corners of the globe, this event offers the
-          opportunity to connect with individuals who have encountered similar
-          challenges, walked the same path, and achieved success despite facing
-          comparable hurdles.
+          Looking ahead, the upcoming conferences in 2024 on Surgery and Anaesthesia promise to be enlightening experiences, focusing on international collaboration and the latest advancements in the field. Whether you are a seasoned professional or a student, participation in these conferences is an invaluable investment in staying abreast of the forefront of surgical and anaesthetic practices.
         </p>
         <p>
-          The <strong>dentistry congress</strong> will be thorough, extensive,
-          and practical, offering a treasure trove of insights to enhance your
-          practice and efficiency upon your return to work. Attendees will be
-          immersed in a diverse group of peers, encompassing influential thought
-          leaders, oral care specialists, healthcare professionals, dentists,
-          subject-matter experts, dental practitioners, and business figures
-          from various global sectors within the{" "}
-          <strong>dental industry.</strong>
-        </p>
-        <p>
-          Upcoming Conferences: Dental Conferences 2024 | Oral Health
-          Conferences | CE Accredited Dental Conferences| ICDO 2024| Dentistry
-          Congress International Dental Conferences
+          Upcoming Conferences: Surgery Conferences 2024 | Anaesthesia Conferences 2024 | International Surgery Conferences | Surgery and Anaesthesia Conferences
         </p>
       </section>
 
@@ -255,35 +212,36 @@ const Home = () => {
         <section className="sessions-section">
           <h2>Scientific Sessions</h2>
           <div className="sessions-grid">
-            <div className="session-item"> Public Health Dentistry</div>
-            <div className="session-item">Prosthodontics & Implantology</div>
-            <div className="session-item">Advanced Dental Research</div>
-            <div className="session-item">Dental Implants and Dentures</div>
-            <div className="session-item">Tooth Anatomy, Decay and Care</div>
-            <div className="session-item">Endodontics</div>
-            <div className="session-item">Conservative Dentistry</div>
-            <div className="session-item">Dental Caries</div>
+            <div className="session-item"> Thoracic Surgery</div>
+            <div className="session-item">Pediatric Surgery</div>
+            <div className="session-item">Orthopedic Surgery</div>
+            <div className="session-item">Surgical Techniques</div>
+            <div className="session-item">General Anesthesia</div>
+            <div className="session-item">Minimally Invasive Surgery</div>
+            <div className="session-item">Gastroenterological Surgery</div>
+            <div className="session-item">Neuro Surgery, Brain and Spine</div>
             <div className="session-item">
-              Oral Surgery and Dental Anesthesiology
+            Oral and Maxillofacial Surgery
             </div>
             <div className="session-item">
-              General Dentistry and Evidence Based Care
+            General Surgery and its Specialties
             </div>
             <div className="session-item">
-              Pediatric Dentistry and Gerodontology
+            Otolaryngology - Head and Neck Surgery
             </div>
             <div className="session-item">
-              Orthodontics & Dentofacial Orthopedics
+            Outpatient Surgery and Imaging
             </div>
-            <div className="session-item">Oral Cancer Research</div>
+            <div className="session-item">Coloproctology and Colorectal Surgery</div>
             <div className="session-item">
-              Dental Biomaterials & Bioengineering
-            </div>
-            <div className="session-item">
-              Periodontology and Implant Dentistry
+            Laparoscopic and Endoscopic Surgery
             </div>
             <div className="session-item">
-              Clinical and Medical Case Reports
+            Dermatologic & Cosmetic Surgery
+            </div>
+            <div className="session-item">
+            Obestetrics and Gynaecological Surgery
+
             </div>
           </div>
           <div className="sessions-buttons">

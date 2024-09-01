@@ -19,7 +19,7 @@
 }
 
 span {
-    color: #0074A9;
+    color: #d40303;
 }
 
 .header-content {
@@ -29,7 +29,7 @@ span {
     justify-content: space-between;
     padding: 5px;
     margin-top: -6px;
-    background-color: #061C28;
+    background-color: #023356;
     color: white;
 
 }
@@ -83,7 +83,7 @@ span {
 /* NAVBAR BEGINS */
 
 .navbar {
-    background-color: #0087B6;
+    background-color: #202340;
     padding: 1px;
 }
 
@@ -109,7 +109,7 @@ span {
 }
 .navbar ul li a:hover{
     width: auto;
-    color: #061C28;
+    /* color: #061C28; */
 
 }
 
@@ -123,7 +123,7 @@ span {
 .dropdown-content {
     display: none; 
     position: absolute;
-    background-color: #061C28;
+    background-color: #023356;
     /* min-width: 150px; */
     /* box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); */
     z-index: 1;
