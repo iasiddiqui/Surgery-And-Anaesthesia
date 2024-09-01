@@ -283,6 +283,7 @@ span {
     padding: 1px;
     text-align: center;
     margin-right: 20px;
+    font-weight: normal;
 }
 
 .sessions-grid {
@@ -299,8 +300,9 @@ span {
     font-weight: bold;
     height: 20px; /* Ensure all items have the same height */
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    /* justify-content: center; */
+    font-weight: normal;
 }
 
 .sessions-buttons {
